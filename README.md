@@ -1,95 +1,54 @@
-<!-- README.md -->
-
-<!-- 🌌 Top Banner -->
-<h1 align="center" style="color:#00FFFF;text-shadow: 0 0 10px #00FFFF;">
-  🧑‍🎓 Mehrab Morshed Marjan – Summer 2025 Routine
-</h1>
-<h3 align="center" style="color:#c4f2f2;">BSc in CSE | East West University | ID: 2025-1-60-142</h3>
+<h1 align="center">🧠 Mehrab Morshed Marjan's Class Routine | Summer 2025 📚</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+Back+to+Campus!;Summer+2025+is+Live+⚡;Trust+the+Grind%2C+Mehrab+💯;Keep+Pushing+Forward!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=No+Classes+on+Friday+%26+Saturday!;Summer+Vibes+%F0%9F%8C%9E;GitHub+Routine+Visualizer+%F0%9F%93%85&center=true&width=500&height=30" />
 </p>
 
 ---
 
-### 🧭 Table of Contents  
-- [🗓️ Routine](#️-weekly-class-routine)  
-- [📘 Course Overview](#-course-overview)  
-- [🧪 Lab Highlights](#-lab-highlights)  
-- [🎯 Motivation](#-productivity-quote)  
-- [🔗 Connect with Me](#-connect-with-me)
+### 📘 Course Overview
+
+| Course Code | Title     | Credits |
+|-------------|-----------|---------|
+| CSE103      | CSE103    | 4.5     |
+| CHE109      | Chemistry | 4.0     |
+| ENG7102     | English   | 3.0     |
+| MAT102      | Math      | 3.0     |
+| **Total**   |           | **14.5** |
 
 ---
 
-## 🗓️ Weekly Class Routine
+### 🗓️ Weekly Schedule
 
-<div align="center">
-
-<table style="border: 2px solid #00FFFF; border-radius: 10px; padding: 10px; background-color: #0D1117; color: #00FFFF; font-family: monospace; box-shadow: 0 0 15px #00FFFF;">
-  <thead>
-    <tr>
-      <th>📆 Day</th>
-      <th>⏰ Time</th>
-      <th>📘 Course</th>
-      <th>🎓 Credits</th>
-      <th>🧑‍🏫 Instructor</th>
-      <th>🏷️ Initial</th>
-      <th>🏛️ Room</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Sunday</td><td>8:30AM - 10:00AM</td><td>ENG7102 (English)</td><td>3.0</td><td>Hridvika Paul</td><td>HP</td><td>FUB-702</td></tr>
-    <tr><td></td><td>11:50AM - 1:20PM</td><td>MAT102 (Math)</td><td>3.0</td><td>Suman Kar</td><td>SUMAN</td><td>AB1-802</td></tr>
-    <tr><td></td><td>1:30PM - 4:30PM</td><td>CSE103 Lab</td><td>0.0</td><td>Puja Chakraborty</td><td>PC</td><td>436 (HCI Lab)</td></tr>
-    <tr><td>Monday</td><td>10:10AM - 11:40AM</td><td>CHE109 (Chemistry)</td><td>4.0</td><td>Dr. Mohammad Kamal Hussain</td><td>DMKH</td><td>FUB-701</td></tr>
-    <tr><td>Tuesday</td><td>10:10AM - 11:40AM</td><td>CSE103 (Theory)</td><td>4.5</td><td>Puja Chakraborty</td><td>PC</td><td>AB3-1002</td></tr>
-    <tr><td></td><td>1:30PM - 4:30PM</td><td>CSE103 Lab</td><td>0.0</td><td>Puja Chakraborty</td><td>PC</td><td>436 (HCI Lab)</td></tr>
-    <tr><td>Wednesday</td><td>1:30PM - 3:30PM</td><td>CHE109 Lab</td><td>0.0</td><td>Dr. Thamina Acter</td><td>DTMA</td><td>724 (Pharmacy Lab-1)</td></tr>
-    <tr><td>Thursday</td><td>8:30AM - 10:00AM</td><td>ENG7102 (English)</td><td>3.0</td><td>Hridvika Paul</td><td>HP</td><td>FUB-702</td></tr>
-    <tr><td></td><td>10:10AM - 11:40AM</td><td>CHE109 (Chemistry)</td><td>4.0</td><td>Dr. Mohammad Kamal Hussain</td><td>DMKH</td><td>FUB-701</td></tr>
-    <tr><td>Saturday</td><td>10:10AM - 11:40AM</td><td>CSE103 (Theory)</td><td>4.5</td><td>Puja Chakraborty</td><td>PC</td><td>111</td></tr>
-  </tbody>
-</table>
-
-</div>
+| Day        | Time              | Course       | Room              | Faculty                    |
+|------------|-------------------|--------------|-------------------|----------------------------|
+| **Sunday** | 8:30–10:00 AM     | ENG7102      | FUB-702           | ✨ HP - Hridvika Paul      |
+|            | 10:10–11:40 AM    | CSE103 Theory| 111               | 🎓 DMKH - Dr. Kamal Hussain |
+|            | 11:50 AM–1:20 PM  | MAT102       | AB1-802           | 👨‍🏫 SUMAN - Suman Kar       |
+| **Monday** | 10:10–11:40 AM    | CHE109       | FUB-701           | 🧪 PC - Puja Chakraborty   |
+| **Tuesday**| 10:10–11:40 AM    | CSE103 Theory| AB3-1002          | 🎓 DMKH                    |
+|            | 1:30–4:30 PM      | CSE103 Lab   | Human Comp. Lab   | 🎓 DMKH                    |
+| **Wed.**   | 10:10–11:40 AM    | CHE109       | FUB-701           | 🧪 PC                      |
+|            | 1:30–3:30 PM      | CHE109 Lab   | Pharmacy Lab-1    | 🧪 PC                      |
+| **Thurs.** | 8:30–10:00 AM     | ENG7102      | FUB-502           | ✨ HP                      |
+|            | 11:50 AM–1:20 PM  | MAT102       | AB1-802           | 👨‍🏫 SUMAN                  |
+| **Friday** | —                 | _No Classes_ | —                 | 💤                        |
+| **Saturday**| —                | _No Classes_ | —                 | 🏖️                        |
 
 ---
 
-## 📘 Course Overview
+### 🔔 Notes
 
-| Course Code | Title                    | Credits | Type     |
-|-------------|--------------------------|---------|----------|
-| ENG7102     | English Language         | 3.0     | Theory   |
-| MAT102      | Mathematics              | 3.0     | Theory   |
-| CHE109      | Chemistry                | 4.0     | Theory   |
-| CHE109 Lab  | Chemistry Lab            | 0.0     | Lab      |
-| CSE103      | Structured Programming   | 4.5     | Theory   |
-| CSE103 Lab  | Structured Programming   | 0.0     | Lab      |
-
----
-
-## 🧪 Lab Highlights
-
-> 🔬 Hands-on sessions are where learning turns into mastery!  
-**CSE103 Lab** and **CHE109 Lab** are your skill-building zones. Gear up, Mehrab!
+- ✅ CSE106 was dropped on **June 19, 2025 at 1:31 PM** with **100% refund**.
+- ✨ All classes verified from official EWU advising slip.
+- 🧾 Faculty Info:
+  - **HP** – Hridvika Paul  
+  - **PC** – Puja Chakraborty  
+  - **SUMAN** – Suman Kar  
+  - **DMKH** – Dr. Mohammad Kamal Hussain  
 
 ---
 
-## 🎯 Productivity Quote
-
-> _"Discipline is choosing between what you want now and what you want most."_  
-> **— Abraham Lincoln**
-
----
-
-## 🔗 Connect with Me
-
-| 🌐 Platform   | 🔗 Link |
-|--------------|--------|
-| GitHub       | [github.com/Mehrab30-Mehrab](https://github.com/Mehrab30-Mehrab) |
-| LinkedIn     | [linkedin.com/in/maarjaan-morshed-919445237](https://www.linkedin.com/in/maarjaan-morshed-919445237) |
-
----
-
-> 💡 *You don’t need to be perfect, just consistent.*  
-> ✨ *Let this README be your daily reminder to stay organized.*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
