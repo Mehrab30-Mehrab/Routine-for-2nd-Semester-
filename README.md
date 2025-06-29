@@ -23,13 +23,13 @@
 | Day        | Time              | Course       | Room              | Faculty                    |
 |------------|-------------------|--------------|-------------------|----------------------------|
 | **Sunday** | 8:30–10:00 AM     | ENG7102      | FUB-702           | ✨ HP - Hridvika Paul      |
-|            | 10:10–11:40 AM    | CSE103 Theory| 111               | 🎓 DMKH - Dr. Kamal Hussain |
+|            | 10:10–11:40 AM    | CSE103 Theory| 111               | 🧪 PC - Puja Chakraborty |
 |            | 11:50 AM–1:20 PM  | MAT102       | AB1-802           | 👨‍🏫 SUMAN - Suman Kar       |
-| **Monday** | 10:10–11:40 AM    | CHE109       | FUB-701           | 🧪 PC - Puja Chakraborty   |
-| **Tuesday**| 10:10–11:40 AM    | CSE103 Theory| AB3-1002          | 🎓 DMKH                    |
-|            | 1:30–4:30 PM      | CSE103 Lab   | Human Comp. Lab   | 🎓 DMKH                    |
-| **Wed.**   | 10:10–11:40 AM    | CHE109       | FUB-701           | 🧪 PC                      |
-|            | 1:30–3:30 PM      | CHE109 Lab   | Pharmacy Lab-1    | 🧪 PC                      |
+| **Monday** | 10:10–11:40 AM    | CHE109       | FUB-701           | 🎓 DMKH - Dr. Kamal Hussain  |
+| **Tuesday**| 10:10–11:40 AM    | CSE103 Theory| AB3-1002          |   🧪 PC                  |
+|            | 1:30–4:30 PM      | CSE103 Lab   | Human Comp. Lab   |      🧪 PC               |
+| **Wed.**   | 10:10–11:40 AM    | CHE109       | FUB-701           | 🎓 DMKH                     |
+|            | 1:30–3:30 PM      | CHE109 Lab   | Pharmacy Lab-1    |     🎓 DTMA              |
 | **Thurs.** | 8:30–10:00 AM     | ENG7102      | FUB-502           | ✨ HP                      |
 |            | 11:50 AM–1:20 PM  | MAT102       | AB1-802           | 👨‍🏫 SUMAN                  |
 | **Friday** | —                 | _No Classes_ | —                 | 💤                        |
@@ -46,7 +46,7 @@
   - **PC** – Puja Chakraborty  
   - **SUMAN** – Suman Kar  
   - **DMKH** – Dr. Mohammad Kamal Hussain  
-
+  - **DTMA** - Dr. Thamina Acter
 ---
 
 <p align="center">
